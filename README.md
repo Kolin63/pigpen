@@ -1,9 +1,9 @@
 # 🐷 Pigpen
 ![demo](demo.gif)
 
-Pigpen is a smarter way to open your files. It wraps around Linux's default
-`open` command, providing an easier way to configure what applications open
-what file types.
+Pigpen is a Linux CLI tool that offers a smarter way to open your files. It
+wraps around Linux's default `open` command, providing an easier way to
+configure what applications open what file types.
 
 ## 🔧 Configuration
 Pigpen reads from `$XDG_CONFIG_HOME/pigpen/config.txt`. `$XDG_CONFIG_HOME` is
