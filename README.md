@@ -29,7 +29,6 @@ would both match `png`. `monday` and `tuesday` would both match `day`. Neither
 ## 📦 Installation
 Run this command:
 ```bash
-wget https://github.com/kolin63/pigpen/releases/latest/download/pigpen -O
-$HOME/.local/bin/pigpen
+wget https://github.com/kolin63/pigpen/releases/latest/download/pigpen -O $HOME/.local/bin/pigpen
 chmod +x $HOME/.local/bin/pigpen
 ```
