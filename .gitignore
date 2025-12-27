@@ -3,3 +3,4 @@ lib/*
 build/*
 .cache/*
 compile_commands.json
+pigpen
