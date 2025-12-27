@@ -71,6 +71,7 @@ int main(int argc, char** argv) {
     if (c == '\n') {
       suffix = "";
       side = left;
+      if (found_type) break;
       continue;
     }
 
